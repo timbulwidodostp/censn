@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p censn Censored skew-normal regression approach with delayed entry Use censn With STATA 18
