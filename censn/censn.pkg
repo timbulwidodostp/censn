@@ -1,5 +1,5 @@
-d 'DEA': Data envelopment analysis
+d 'censn': Censored skew-normal regression approach with delayed entry Use censn With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f censn.ado
+f censn.sthlp
+f sn_ltrun.ado
