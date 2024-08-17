@@ -1,6 +1,8 @@
 # censn
 Censored skew-normal regression approach with delayed entry Use censn With STATA 18
 
+https://www.youtube.com/watch?v=WARMaSUsei8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
